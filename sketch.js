@@ -13,7 +13,7 @@ function setup(){
     engine=Engine.create();
     world=engine.world;
 
-    var canvas=createCanvas(1260,470);
+    var canvas=createCanvas(1260,600);
     ground=new Ground(600,375,1200,50);
 
     
